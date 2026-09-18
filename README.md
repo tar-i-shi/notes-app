@@ -11,7 +11,7 @@
 
 ## GitHub Repository
 
-YOUR_GITHUB_REPOSITORY_LINK
+https://github.com/tar-i-shi/notes-app.git
 
 ## Project Description
 
